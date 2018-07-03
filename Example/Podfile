@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'cycleControlCategoryCreat_Example' do
+  pod 'cycleControlCategoryCreat', :path => '../'
+
+  target 'cycleControlCategoryCreat_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
