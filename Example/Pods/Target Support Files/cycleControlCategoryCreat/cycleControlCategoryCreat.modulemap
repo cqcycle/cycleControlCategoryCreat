@@ -1,0 +1,6 @@
+framework module cycleControlCategoryCreat {
+  umbrella header "cycleControlCategoryCreat-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'cycleControlCategoryCreat'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of cycleControlCategoryCreat.'
+  s.version          = '1.0.0'
+  s.summary          = 'A short description of controlCategory can help us create control quickly.now UIButton,UICollectionView,UILable,UITableView,UITextView,UITextField support quickly create.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
