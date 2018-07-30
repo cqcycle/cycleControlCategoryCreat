@@ -1,5 +1,5 @@
 PODS:
-  - cycleControlCategoryCreat (1.0.0)
+  - cycleControlCategoryCreat (1.0.1)
 
 DEPENDENCIES:
   - cycleControlCategoryCreat (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  cycleControlCategoryCreat: fe2624e8c6dd1a812d0edd46a631e14015385524
+  cycleControlCategoryCreat: d1a0ae38792f2cfcb7003e6ecb70b24ed58ef488
 
 PODFILE CHECKSUM: d9287ca8a59c52a07ade39527b226a15657e33e8
 
-COCOAPODS: 1.5.0
+COCOAPODS: 1.5.3

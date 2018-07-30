@@ -7,28 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		13F109DA33226C5E71A0CA3C211C833F /* UITableView+CycleCreat.m in Sources */ = {isa = PBXBuildFile; fileRef = ACAE0F97D529427F6C54D9F288FFDEDA /* UITableView+CycleCreat.m */; };
-		16E8629D761FD37ADF4F1CB2B4A31840 /* UITableView+CycleCreat.h in Headers */ = {isa = PBXBuildFile; fileRef = 78CA2754B1CFF0943EE113C204900DE8 /* UITableView+CycleCreat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		1361D978AC37596D0CE998AE9AA73648 /* UIButton+CycleCreat.h in Headers */ = {isa = PBXBuildFile; fileRef = BC491BA33E97A3B97DBC6AD7FD4ACF90 /* UIButton+CycleCreat.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		18F4276EE18BFB140301B542FF36508D /* Pods-cycleControlCategoryCreat_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 5440BA2CE1E149E8F61049A74474540E /* Pods-cycleControlCategoryCreat_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		32094BB935BA315E45984BBFE4D4736E /* UIButton+CycleCreat.h in Headers */ = {isa = PBXBuildFile; fileRef = BC75DF2E0D89B3F87C88BF466C2538F8 /* UIButton+CycleCreat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2089F1698B2F5C0EA4DD6800B3BB5420 /* UIButton+CycleCreat.m in Sources */ = {isa = PBXBuildFile; fileRef = F6F549731A968C5833D15B7F304E1984 /* UIButton+CycleCreat.m */; };
 		38FFB9AFD1AD615CDE96EAEB57079030 /* Pods-cycleControlCategoryCreat_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A29AF6CF9F566613EF6135D0BD4A478 /* Pods-cycleControlCategoryCreat_Example-dummy.m */; };
-		3F044C5E86820159CDB922DA20BCB0B6 /* UITextField+CycleCreat.m in Sources */ = {isa = PBXBuildFile; fileRef = CF2A1631D13B9242D409D01D33DE4555 /* UITextField+CycleCreat.m */; };
+		3952DF1995D1F8059A6B644A51FEC531 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
 		456A5367C376378EC67086707D8372FF /* Pods-cycleControlCategoryCreat_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 13C809162E5C2AC88ACFDFFD671A6902 /* Pods-cycleControlCategoryCreat_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		4D7BDA8BE2DAB3953E3DC8AEDCBD91F6 /* UILabel+CycleCreat.m in Sources */ = {isa = PBXBuildFile; fileRef = 5EC181E148EC383E3D8E1911B8D8F0D5 /* UILabel+CycleCreat.m */; };
-		4E0D9FD04608EB4F4AE689791F444B2A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		74A537C4D10E41F374192C715C5DBBFA /* cycleControlCategoryCreat-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5832E24DD030181B44FB747A08037800 /* cycleControlCategoryCreat-dummy.m */; };
-		7745B17754658BF7E39D52D1FD05C1F7 /* UITextView+CycleCreat.h in Headers */ = {isa = PBXBuildFile; fileRef = B1F83A23915FC69460162D937C0B298D /* UITextView+CycleCreat.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		849D4D01900EBCEC8600D382EF11259D /* UITextView+CycleCreat.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F63376A10044CA93EA7373BE62A11B6 /* UITextView+CycleCreat.m */; };
-		86D1A64C9CA576B1D5432E32BD55B11B /* cycleControlCategoryCreat-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 235E7C8899874F9046626F76956F44A9 /* cycleControlCategoryCreat-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		9039C4B3478CF996F64DF54FF806B8D0 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = 84A0C9F1F344AEC5BFAB7739D16CC919 /* ReplaceMe.m */; };
-		9E9D43DDB9FBD44A67BB92DF482F47E9 /* UICollectionView+CycleCreat.h in Headers */ = {isa = PBXBuildFile; fileRef = 49B0215059FD2EA5C5CAB745D47E1AFC /* UICollectionView+CycleCreat.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		B3A56BF869618D6438DF07284B06F6C1 /* UICollectionView+CycleCreat.m in Sources */ = {isa = PBXBuildFile; fileRef = B35D1F524497FC8061A65E254EC32CF7 /* UICollectionView+CycleCreat.m */; };
-		BB6B3197FE6DEDC67B9B799D2E47659F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
-		C0A5032A4355ABB499A5652207CF8AE2 /* UIButton+CycleCreat.m in Sources */ = {isa = PBXBuildFile; fileRef = 64941AC267AE1F9AC3ECE2A0FC36EDEE /* UIButton+CycleCreat.m */; };
-		D90788A3CD192A13929E8BB4A36B17AF /* UITextField+CycleCreat.h in Headers */ = {isa = PBXBuildFile; fileRef = CD75176115B5FD2F6ADFAB1CC67D03EA /* UITextField+CycleCreat.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		D96D583F254DDD68E526A8F6FC8B8B17 /* UILabel+CycleCreat.h in Headers */ = {isa = PBXBuildFile; fileRef = 910BC366A61583AA4A9D0B7C9735CE80 /* UILabel+CycleCreat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4A01B642D6664FCEC587F0E42418B7A9 /* UILabel+CycleCreat.h in Headers */ = {isa = PBXBuildFile; fileRef = 1D685887ECF0F4DD827944C8A9FB6AC9 /* UILabel+CycleCreat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		5B2AB3E8B8C650215208376DD9864CBF /* controlCategorysCreat.h in Headers */ = {isa = PBXBuildFile; fileRef = AF8F5535961F021BEE88A1E72DB5D074 /* controlCategorysCreat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		603A735304B253059F493BE9C7496626 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		68C31EBA817D0C50E190A4DF95630C13 /* ReplaceMe.m in Sources */ = {isa = PBXBuildFile; fileRef = FCC828CD0A9746F40F486CEB83D77E94 /* ReplaceMe.m */; };
+		7AAF4115518A8E2F2CF077466350ED71 /* UITextView+CycleCreat.h in Headers */ = {isa = PBXBuildFile; fileRef = 0F868D6951C6FD090C45179B51EEF510 /* UITextView+CycleCreat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		7DF46D93253CFCF0A6600D12F2FADBBC /* UICollectionView+CycleCreat.h in Headers */ = {isa = PBXBuildFile; fileRef = 7731EBE20622992481DABA1C5E5EC40C /* UICollectionView+CycleCreat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		82D42E97BB96AB8B7D7C658B834948B8 /* cycleControlCategoryCreat-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 26E4F3E1CA249F4F9C1DE6BFAAF7F1EA /* cycleControlCategoryCreat-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		895E5DCC2C26E4DD0FC1C073C6EA5898 /* cycleControlCategoryCreat-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F0D6E15D5F2D2925B56A489442D1F0CC /* cycleControlCategoryCreat-dummy.m */; };
+		9B37D4B95B8E4B7A7DCECC1A64B76F3D /* UILabel+CycleCreat.m in Sources */ = {isa = PBXBuildFile; fileRef = 6C73D7CF3F8557378A4E242751DC3E31 /* UILabel+CycleCreat.m */; };
+		A37E0262BE3D8A736AC44E40CF1C0E49 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */; };
+		A54A5B4EB257C5B640B5171E6B9EAF8A /* UITextField+CycleCreat.m in Sources */ = {isa = PBXBuildFile; fileRef = 8AD2AB3B3F1CEF7A306A76FDBA544610 /* UITextField+CycleCreat.m */; };
+		B3B7D313E59BF74BB1DDAD5291207913 /* UITableView+CycleCreat.h in Headers */ = {isa = PBXBuildFile; fileRef = E57A744782B7740AEE81E6E34CE0B2FE /* UITableView+CycleCreat.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		B80B355FC9F6C79D76604B47933704FC /* UITextView+CycleCreat.m in Sources */ = {isa = PBXBuildFile; fileRef = D1083C8DB0CE36AFBFC09A2D31EA9007 /* UITextView+CycleCreat.m */; };
+		C9C8AB63445B05E3740558BB69B97611 /* UICollectionView+CycleCreat.m in Sources */ = {isa = PBXBuildFile; fileRef = B1C2BA4BB070F152A59C33F9E8705F95 /* UICollectionView+CycleCreat.m */; };
 		DBAEC7266449C59EA7C9C12E4B40CF6B /* Pods-cycleControlCategoryCreat_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 34C61764180C5DBE7637A31680EF45BB /* Pods-cycleControlCategoryCreat_Tests-dummy.m */; };
-		EBAAECE958E5DFFE982EB9666F93148B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */; };
+		E2AAD2FBB11594B33B1A289619A42F7F /* UITableView+CycleCreat.m in Sources */ = {isa = PBXBuildFile; fileRef = B3E55819FBB111D5E874933B59176F06 /* UITableView+CycleCreat.m */; };
+		F61C2AC56287C00F9F0263334C38FB58 /* UITextField+CycleCreat.h in Headers */ = {isa = PBXBuildFile; fileRef = 88CE9D0D9745995F58987D359CDA848D /* UITextField+CycleCreat.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +37,7 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = E6E18983619CDD6212B08C73063BED02;
+			remoteGlobalIDString = 4DD9B093C6E92B6F60F34A15EEFCC3FE;
 			remoteInfo = cycleControlCategoryCreat;
 		};
 		EED6D0EE6A21616FE8E4DC47022394F9 /* PBXContainerItemProxy */ = {
@@ -51,51 +52,52 @@
 /* Begin PBXFileReference section */
 		0AA3588EE6E2CF129ECAEFAAC90423B9 /* Pods_cycleControlCategoryCreat_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_cycleControlCategoryCreat_Tests.framework; path = "Pods-cycleControlCategoryCreat_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CB5BBE11D6A77A638D8E792E8C6DB51 /* Pods-cycleControlCategoryCreat_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-cycleControlCategoryCreat_Example-resources.sh"; sourceTree = "<group>"; };
+		0F868D6951C6FD090C45179B51EEF510 /* UITextView+CycleCreat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UITextView+CycleCreat.h"; sourceTree = "<group>"; };
 		1139FFE6A9B125DEDEE06EE33E878573 /* Pods-cycleControlCategoryCreat_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-cycleControlCategoryCreat_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		13C809162E5C2AC88ACFDFFD671A6902 /* Pods-cycleControlCategoryCreat_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-cycleControlCategoryCreat_Example-umbrella.h"; sourceTree = "<group>"; };
-		235E7C8899874F9046626F76956F44A9 /* cycleControlCategoryCreat-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "cycleControlCategoryCreat-umbrella.h"; sourceTree = "<group>"; };
+		1D685887ECF0F4DD827944C8A9FB6AC9 /* UILabel+CycleCreat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UILabel+CycleCreat.h"; sourceTree = "<group>"; };
+		26E4F3E1CA249F4F9C1DE6BFAAF7F1EA /* cycleControlCategoryCreat-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "cycleControlCategoryCreat-umbrella.h"; sourceTree = "<group>"; };
+		28A23FCCFBA70965C96F40DC3DAA5018 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2A29AF6CF9F566613EF6135D0BD4A478 /* Pods-cycleControlCategoryCreat_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-cycleControlCategoryCreat_Example-dummy.m"; sourceTree = "<group>"; };
 		2C3A5F44350378EAF2B34994546C1CE6 /* Pods-cycleControlCategoryCreat_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-cycleControlCategoryCreat_Tests.modulemap"; sourceTree = "<group>"; };
+		2CD1DB204EB064C312ED786EDFFCF60A /* cycleControlCategoryCreat.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = cycleControlCategoryCreat.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		303C94DF0765EA5A2B315797ED8F9CEF /* Pods-cycleControlCategoryCreat_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-cycleControlCategoryCreat_Example-frameworks.sh"; sourceTree = "<group>"; };
 		339942604CDAC13715456FC04B41C8E3 /* Pods-cycleControlCategoryCreat_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-cycleControlCategoryCreat_Example.release.xcconfig"; sourceTree = "<group>"; };
 		34C61764180C5DBE7637A31680EF45BB /* Pods-cycleControlCategoryCreat_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-cycleControlCategoryCreat_Tests-dummy.m"; sourceTree = "<group>"; };
 		434B38573F4339E4A671945B57CE78F0 /* Pods-cycleControlCategoryCreat_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-cycleControlCategoryCreat_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		49B0215059FD2EA5C5CAB745D47E1AFC /* UICollectionView+CycleCreat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UICollectionView+CycleCreat.h"; sourceTree = "<group>"; };
 		5440BA2CE1E149E8F61049A74474540E /* Pods-cycleControlCategoryCreat_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-cycleControlCategoryCreat_Tests-umbrella.h"; sourceTree = "<group>"; };
-		5832E24DD030181B44FB747A08037800 /* cycleControlCategoryCreat-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "cycleControlCategoryCreat-dummy.m"; sourceTree = "<group>"; };
+		5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS11.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		5CA3652177739C9337908181A9A0C83C /* cycleControlCategoryCreat.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = cycleControlCategoryCreat.framework; path = cycleControlCategoryCreat.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		5EC181E148EC383E3D8E1911B8D8F0D5 /* UILabel+CycleCreat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UILabel+CycleCreat.m"; sourceTree = "<group>"; };
 		5F594BDD5E7B23A3D0034EC53CEA983E /* Pods-cycleControlCategoryCreat_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-cycleControlCategoryCreat_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		60BF5B69E762454F33FAE5554308AEA3 /* cycleControlCategoryCreat.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = cycleControlCategoryCreat.xcconfig; sourceTree = "<group>"; };
 		616063DF90B42703E519D80734BF321E /* Pods-cycleControlCategoryCreat_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-cycleControlCategoryCreat_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		64941AC267AE1F9AC3ECE2A0FC36EDEE /* UIButton+CycleCreat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIButton+CycleCreat.m"; sourceTree = "<group>"; };
-		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		78CA2754B1CFF0943EE113C204900DE8 /* UITableView+CycleCreat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UITableView+CycleCreat.h"; sourceTree = "<group>"; };
+		6C73D7CF3F8557378A4E242751DC3E31 /* UILabel+CycleCreat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UILabel+CycleCreat.m"; sourceTree = "<group>"; };
+		7731EBE20622992481DABA1C5E5EC40C /* UICollectionView+CycleCreat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UICollectionView+CycleCreat.h"; sourceTree = "<group>"; };
 		78E6A1CD35DA02E31FB720F6ED7A3CA1 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7E68E988BC20033E5C9F7F001560059C /* cycleControlCategoryCreat-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "cycleControlCategoryCreat-prefix.pch"; sourceTree = "<group>"; };
 		81E43D3E9232E292238A575C0A3FF2BB /* Pods-cycleControlCategoryCreat_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-cycleControlCategoryCreat_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		822EF5640C0DBC74699F9CC1D7CCED59 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		84A0C9F1F344AEC5BFAB7739D16CC919 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = cycleControlCategoryCreat/Classes/ReplaceMe.m; sourceTree = "<group>"; };
+		88CE9D0D9745995F58987D359CDA848D /* UITextField+CycleCreat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UITextField+CycleCreat.h"; sourceTree = "<group>"; };
+		8AD2AB3B3F1CEF7A306A76FDBA544610 /* UITextField+CycleCreat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UITextField+CycleCreat.m"; sourceTree = "<group>"; };
 		8C1BCC1E512D23799DFCAC2A1BB17105 /* Pods-cycleControlCategoryCreat_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-cycleControlCategoryCreat_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		910BC366A61583AA4A9D0B7C9735CE80 /* UILabel+CycleCreat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UILabel+CycleCreat.h"; sourceTree = "<group>"; };
+		93093BE31EEFF41A43B87A04F4117AF0 /* cycleControlCategoryCreat.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = cycleControlCategoryCreat.xcconfig; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9E981A4BD2BF96A87B182DC598DEFC32 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		9F035FD0AC48AF882A9DBAEB5E768CB4 /* cycleControlCategoryCreat-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "cycleControlCategoryCreat-prefix.pch"; sourceTree = "<group>"; };
-		9F63376A10044CA93EA7373BE62A11B6 /* UITextView+CycleCreat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UITextView+CycleCreat.m"; sourceTree = "<group>"; };
 		A54F5CA7018220A8319C3553B6DD475F /* Pods-cycleControlCategoryCreat_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-cycleControlCategoryCreat_Tests-resources.sh"; sourceTree = "<group>"; };
-		ACAE0F97D529427F6C54D9F288FFDEDA /* UITableView+CycleCreat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UITableView+CycleCreat.m"; sourceTree = "<group>"; };
-		B1F83A23915FC69460162D937C0B298D /* UITextView+CycleCreat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UITextView+CycleCreat.h"; sourceTree = "<group>"; };
-		B35D1F524497FC8061A65E254EC32CF7 /* UICollectionView+CycleCreat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UICollectionView+CycleCreat.m"; sourceTree = "<group>"; };
-		BC75DF2E0D89B3F87C88BF466C2538F8 /* UIButton+CycleCreat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIButton+CycleCreat.h"; sourceTree = "<group>"; };
+		AF8F5535961F021BEE88A1E72DB5D074 /* controlCategorysCreat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = controlCategorysCreat.h; sourceTree = "<group>"; };
+		B1C2BA4BB070F152A59C33F9E8705F95 /* UICollectionView+CycleCreat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UICollectionView+CycleCreat.m"; sourceTree = "<group>"; };
+		B3E55819FBB111D5E874933B59176F06 /* UITableView+CycleCreat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UITableView+CycleCreat.m"; sourceTree = "<group>"; };
+		BC491BA33E97A3B97DBC6AD7FD4ACF90 /* UIButton+CycleCreat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UIButton+CycleCreat.h"; sourceTree = "<group>"; };
 		BFE4425290E950320959CD58816BE11F /* Pods-cycleControlCategoryCreat_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-cycleControlCategoryCreat_Example.modulemap"; sourceTree = "<group>"; };
 		C5ED218C4CE47ECB485AE6E0DB0D26CB /* Pods-cycleControlCategoryCreat_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-cycleControlCategoryCreat_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		CD75176115B5FD2F6ADFAB1CC67D03EA /* UITextField+CycleCreat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UITextField+CycleCreat.h"; sourceTree = "<group>"; };
-		CDA91FEEC5915A1B14E077D7A2660DCF /* cycleControlCategoryCreat.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = cycleControlCategoryCreat.modulemap; sourceTree = "<group>"; };
-		CF2A1631D13B9242D409D01D33DE4555 /* UITextField+CycleCreat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UITextField+CycleCreat.m"; sourceTree = "<group>"; };
+		C6E37659BB4F0B1DC68112DB71F5EC87 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		D1083C8DB0CE36AFBFC09A2D31EA9007 /* UITextView+CycleCreat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UITextView+CycleCreat.m"; sourceTree = "<group>"; };
+		D53FBBE4A442455E9A3019DD2ADDFEA0 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		E08E3629B29DA2D48C9F04737A944B26 /* Pods-cycleControlCategoryCreat_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-cycleControlCategoryCreat_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		E38FD6AD50161EAEC7405832F25A8540 /* cycleControlCategoryCreat.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = cycleControlCategoryCreat.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		E57A744782B7740AEE81E6E34CE0B2FE /* UITableView+CycleCreat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "UITableView+CycleCreat.h"; sourceTree = "<group>"; };
+		F0D6E15D5F2D2925B56A489442D1F0CC /* cycleControlCategoryCreat-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "cycleControlCategoryCreat-dummy.m"; sourceTree = "<group>"; };
+		F2062D2B9648D75DB7CAFD505B9D6A52 /* cycleControlCategoryCreat.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = cycleControlCategoryCreat.modulemap; sourceTree = "<group>"; };
+		F6F549731A968C5833D15B7F304E1984 /* UIButton+CycleCreat.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIButton+CycleCreat.m"; sourceTree = "<group>"; };
 		F99CC4B376087B397589741355819606 /* Pods_cycleControlCategoryCreat_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_cycleControlCategoryCreat_Example.framework; path = "Pods-cycleControlCategoryCreat_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FCC9B5CCB0DF4E67AAA58642A81FA0B8 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		FF31FD6AED554D65D5F31CBF26FC3A46 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FCC828CD0A9746F40F486CEB83D77E94 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = cycleControlCategoryCreat/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,15 +105,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BB6B3197FE6DEDC67B9B799D2E47659F /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		80354C5F7D1EECC98DB64901AC6DD799 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4E0D9FD04608EB4F4AE689791F444B2A /* Foundation.framework in Frameworks */,
+				3952DF1995D1F8059A6B644A51FEC531 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -119,13 +113,35 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EBAAECE958E5DFFE982EB9666F93148B /* Foundation.framework in Frameworks */,
+				603A735304B253059F493BE9C7496626 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		D95B3236725AA61FB07CE499E2D9079F /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				A37E0262BE3D8A736AC44E40CF1C0E49 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0DC3D66F4C946CD8F22ADAB662A25F89 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				F2062D2B9648D75DB7CAFD505B9D6A52 /* cycleControlCategoryCreat.modulemap */,
+				93093BE31EEFF41A43B87A04F4117AF0 /* cycleControlCategoryCreat.xcconfig */,
+				F0D6E15D5F2D2925B56A489442D1F0CC /* cycleControlCategoryCreat-dummy.m */,
+				7E68E988BC20033E5C9F7F001560059C /* cycleControlCategoryCreat-prefix.pch */,
+				26E4F3E1CA249F4F9C1DE6BFAAF7F1EA /* cycleControlCategoryCreat-umbrella.h */,
+				28A23FCCFBA70965C96F40DC3DAA5018 /* Info.plist */,
+			);
+			name = "Support Files";
+			path = "Example/Pods/Target Support Files/cycleControlCategoryCreat";
+			sourceTree = "<group>";
+		};
 		13E4F58558FD0720A9B10DF615388246 /* Pods-cycleControlCategoryCreat_Example */ = {
 			isa = PBXGroup;
 			children = (
@@ -154,18 +170,12 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		2997581D650937D96B5FA404B155040C /* Support Files */ = {
+		5E0D919E635D23B70123790B8308F8EF /* iOS */ = {
 			isa = PBXGroup;
 			children = (
-				CDA91FEEC5915A1B14E077D7A2660DCF /* cycleControlCategoryCreat.modulemap */,
-				60BF5B69E762454F33FAE5554308AEA3 /* cycleControlCategoryCreat.xcconfig */,
-				5832E24DD030181B44FB747A08037800 /* cycleControlCategoryCreat-dummy.m */,
-				9F035FD0AC48AF882A9DBAEB5E768CB4 /* cycleControlCategoryCreat-prefix.pch */,
-				235E7C8899874F9046626F76956F44A9 /* cycleControlCategoryCreat-umbrella.h */,
-				FF31FD6AED554D65D5F31CBF26FC3A46 /* Info.plist */,
+				5A16F4CFC63FAC439D7A04994F579A03 /* Foundation.framework */,
 			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/cycleControlCategoryCreat";
+			name = iOS;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -179,16 +189,35 @@
 			);
 			sourceTree = "<group>";
 		};
-		96CB79728515F364DDBEB983B3AC624F /* cycleControlCategoryCreat */ = {
+		9AC20D8A9302A08CDB5F80ECF264BA5E /* Pod */ = {
 			isa = PBXGroup;
 			children = (
-				84A0C9F1F344AEC5BFAB7739D16CC919 /* ReplaceMe.m */,
-				BF552B91B81E43C19129C9906E523CE7 /* controlCategory */,
-				FCB6CAB500776508F605A0CED00C9D4B /* Pod */,
-				2997581D650937D96B5FA404B155040C /* Support Files */,
+				2CD1DB204EB064C312ED786EDFFCF60A /* cycleControlCategoryCreat.podspec */,
+				D53FBBE4A442455E9A3019DD2ADDFEA0 /* LICENSE */,
+				C6E37659BB4F0B1DC68112DB71F5EC87 /* README.md */,
 			);
-			name = cycleControlCategoryCreat;
-			path = ../..;
+			name = Pod;
+			sourceTree = "<group>";
+		};
+		AF26641AC285E04EC2C7F25CC75AF4CE /* controlCategory */ = {
+			isa = PBXGroup;
+			children = (
+				AF8F5535961F021BEE88A1E72DB5D074 /* controlCategorysCreat.h */,
+				BC491BA33E97A3B97DBC6AD7FD4ACF90 /* UIButton+CycleCreat.h */,
+				F6F549731A968C5833D15B7F304E1984 /* UIButton+CycleCreat.m */,
+				7731EBE20622992481DABA1C5E5EC40C /* UICollectionView+CycleCreat.h */,
+				B1C2BA4BB070F152A59C33F9E8705F95 /* UICollectionView+CycleCreat.m */,
+				1D685887ECF0F4DD827944C8A9FB6AC9 /* UILabel+CycleCreat.h */,
+				6C73D7CF3F8557378A4E242751DC3E31 /* UILabel+CycleCreat.m */,
+				E57A744782B7740AEE81E6E34CE0B2FE /* UITableView+CycleCreat.h */,
+				B3E55819FBB111D5E874933B59176F06 /* UITableView+CycleCreat.m */,
+				88CE9D0D9745995F58987D359CDA848D /* UITextField+CycleCreat.h */,
+				8AD2AB3B3F1CEF7A306A76FDBA544610 /* UITextField+CycleCreat.m */,
+				0F868D6951C6FD090C45179B51EEF510 /* UITextView+CycleCreat.h */,
+				D1083C8DB0CE36AFBFC09A2D31EA9007 /* UITextView+CycleCreat.m */,
+			);
+			name = controlCategory;
+			path = cycleControlCategoryCreat/Classes/controlCategory;
 			sourceTree = "<group>";
 		};
 		BC225599FD8931F7765D0343821A82E9 /* Pods-cycleControlCategoryCreat_Tests */ = {
@@ -212,29 +241,21 @@
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				D35AF013A5F0BAD4F32504907A52519E /* iOS */,
+				5E0D919E635D23B70123790B8308F8EF /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		BF552B91B81E43C19129C9906E523CE7 /* controlCategory */ = {
+		C1115BE6E07D1B9B77BC6CBF655C633D /* cycleControlCategoryCreat */ = {
 			isa = PBXGroup;
 			children = (
-				BC75DF2E0D89B3F87C88BF466C2538F8 /* UIButton+CycleCreat.h */,
-				64941AC267AE1F9AC3ECE2A0FC36EDEE /* UIButton+CycleCreat.m */,
-				49B0215059FD2EA5C5CAB745D47E1AFC /* UICollectionView+CycleCreat.h */,
-				B35D1F524497FC8061A65E254EC32CF7 /* UICollectionView+CycleCreat.m */,
-				910BC366A61583AA4A9D0B7C9735CE80 /* UILabel+CycleCreat.h */,
-				5EC181E148EC383E3D8E1911B8D8F0D5 /* UILabel+CycleCreat.m */,
-				78CA2754B1CFF0943EE113C204900DE8 /* UITableView+CycleCreat.h */,
-				ACAE0F97D529427F6C54D9F288FFDEDA /* UITableView+CycleCreat.m */,
-				CD75176115B5FD2F6ADFAB1CC67D03EA /* UITextField+CycleCreat.h */,
-				CF2A1631D13B9242D409D01D33DE4555 /* UITextField+CycleCreat.m */,
-				B1F83A23915FC69460162D937C0B298D /* UITextView+CycleCreat.h */,
-				9F63376A10044CA93EA7373BE62A11B6 /* UITextView+CycleCreat.m */,
+				FCC828CD0A9746F40F486CEB83D77E94 /* ReplaceMe.m */,
+				AF26641AC285E04EC2C7F25CC75AF4CE /* controlCategory */,
+				9AC20D8A9302A08CDB5F80ECF264BA5E /* Pod */,
+				0DC3D66F4C946CD8F22ADAB662A25F89 /* Support Files */,
 			);
-			name = controlCategory;
-			path = cycleControlCategoryCreat/Classes/controlCategory;
+			name = cycleControlCategoryCreat;
+			path = ../..;
 			sourceTree = "<group>";
 		};
 		C5D3BDE929E698F947BAB428D82680ED /* Targets Support Files */ = {
@@ -246,46 +267,29 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		D35AF013A5F0BAD4F32504907A52519E /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */,
-			);
-			name = iOS;
-			sourceTree = "<group>";
-		};
 		E3C9B1FE3ED8B65E990195AAD6DC6884 /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
-				96CB79728515F364DDBEB983B3AC624F /* cycleControlCategoryCreat */,
+				C1115BE6E07D1B9B77BC6CBF655C633D /* cycleControlCategoryCreat */,
 			);
 			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		FCB6CAB500776508F605A0CED00C9D4B /* Pod */ = {
-			isa = PBXGroup;
-			children = (
-				E38FD6AD50161EAEC7405832F25A8540 /* cycleControlCategoryCreat.podspec */,
-				9E981A4BD2BF96A87B182DC598DEFC32 /* LICENSE */,
-				FCC9B5CCB0DF4E67AAA58642A81FA0B8 /* README.md */,
-			);
-			name = Pod;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		0F56173A5E12C6ED1BC38E81C840DA71 /* Headers */ = {
+		60ADF910C98DF53B36DA12B8C7D8226A /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				86D1A64C9CA576B1D5432E32BD55B11B /* cycleControlCategoryCreat-umbrella.h in Headers */,
-				32094BB935BA315E45984BBFE4D4736E /* UIButton+CycleCreat.h in Headers */,
-				9E9D43DDB9FBD44A67BB92DF482F47E9 /* UICollectionView+CycleCreat.h in Headers */,
-				D96D583F254DDD68E526A8F6FC8B8B17 /* UILabel+CycleCreat.h in Headers */,
-				16E8629D761FD37ADF4F1CB2B4A31840 /* UITableView+CycleCreat.h in Headers */,
-				D90788A3CD192A13929E8BB4A36B17AF /* UITextField+CycleCreat.h in Headers */,
-				7745B17754658BF7E39D52D1FD05C1F7 /* UITextView+CycleCreat.h in Headers */,
+				5B2AB3E8B8C650215208376DD9864CBF /* controlCategorysCreat.h in Headers */,
+				82D42E97BB96AB8B7D7C658B834948B8 /* cycleControlCategoryCreat-umbrella.h in Headers */,
+				1361D978AC37596D0CE998AE9AA73648 /* UIButton+CycleCreat.h in Headers */,
+				7DF46D93253CFCF0A6600D12F2FADBBC /* UICollectionView+CycleCreat.h in Headers */,
+				4A01B642D6664FCEC587F0E42418B7A9 /* UILabel+CycleCreat.h in Headers */,
+				B3B7D313E59BF74BB1DDAD5291207913 /* UITableView+CycleCreat.h in Headers */,
+				F61C2AC56287C00F9F0263334C38FB58 /* UITextField+CycleCreat.h in Headers */,
+				7AAF4115518A8E2F2CF077466350ED71 /* UITextView+CycleCreat.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -308,6 +312,23 @@
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
+		4DD9B093C6E92B6F60F34A15EEFCC3FE /* cycleControlCategoryCreat */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4EFFA81C74849DE3B7B79967B09F051F /* Build configuration list for PBXNativeTarget "cycleControlCategoryCreat" */;
+			buildPhases = (
+				555307BEE63B3E88F757B0133C7C936C /* Sources */,
+				D95B3236725AA61FB07CE499E2D9079F /* Frameworks */,
+				60ADF910C98DF53B36DA12B8C7D8226A /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = cycleControlCategoryCreat;
+			productName = cycleControlCategoryCreat;
+			productReference = 5CA3652177739C9337908181A9A0C83C /* cycleControlCategoryCreat.framework */;
+			productType = "com.apple.product-type.framework";
+		};
 		6C5A433F7E501F3140C7A05B51EDF498 /* Pods-cycleControlCategoryCreat_Tests */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 162C5B4ECA8D2E1F5639C4E8F785B19F /* Build configuration list for PBXNativeTarget "Pods-cycleControlCategoryCreat_Tests" */;
@@ -344,23 +365,6 @@
 			productReference = F99CC4B376087B397589741355819606 /* Pods_cycleControlCategoryCreat_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		E6E18983619CDD6212B08C73063BED02 /* cycleControlCategoryCreat */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = BE1C8AFAF0B13D0C1ACD15289FCD0CBF /* Build configuration list for PBXNativeTarget "cycleControlCategoryCreat" */;
-			buildPhases = (
-				CEAF70E6E926CB2D8E16D194FEFE8CFC /* Sources */,
-				80354C5F7D1EECC98DB64901AC6DD799 /* Frameworks */,
-				0F56173A5E12C6ED1BC38E81C840DA71 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = cycleControlCategoryCreat;
-			productName = cycleControlCategoryCreat;
-			productReference = 5CA3652177739C9337908181A9A0C83C /* cycleControlCategoryCreat.framework */;
-			productType = "com.apple.product-type.framework";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -382,7 +386,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E6E18983619CDD6212B08C73063BED02 /* cycleControlCategoryCreat */,
+				4DD9B093C6E92B6F60F34A15EEFCC3FE /* cycleControlCategoryCreat */,
 				A113C1EDDD52A3488C6A063A5638F194 /* Pods-cycleControlCategoryCreat_Example */,
 				6C5A433F7E501F3140C7A05B51EDF498 /* Pods-cycleControlCategoryCreat_Tests */,
 			);
@@ -390,26 +394,26 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
+		555307BEE63B3E88F757B0133C7C936C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				895E5DCC2C26E4DD0FC1C073C6EA5898 /* cycleControlCategoryCreat-dummy.m in Sources */,
+				68C31EBA817D0C50E190A4DF95630C13 /* ReplaceMe.m in Sources */,
+				2089F1698B2F5C0EA4DD6800B3BB5420 /* UIButton+CycleCreat.m in Sources */,
+				C9C8AB63445B05E3740558BB69B97611 /* UICollectionView+CycleCreat.m in Sources */,
+				9B37D4B95B8E4B7A7DCECC1A64B76F3D /* UILabel+CycleCreat.m in Sources */,
+				E2AAD2FBB11594B33B1A289619A42F7F /* UITableView+CycleCreat.m in Sources */,
+				A54A5B4EB257C5B640B5171E6B9EAF8A /* UITextField+CycleCreat.m in Sources */,
+				B80B355FC9F6C79D76604B47933704FC /* UITextView+CycleCreat.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		853B8CDBED7523412FFF139D046FE10A /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				38FFB9AFD1AD615CDE96EAEB57079030 /* Pods-cycleControlCategoryCreat_Example-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		CEAF70E6E926CB2D8E16D194FEFE8CFC /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				74A537C4D10E41F374192C715C5DBBFA /* cycleControlCategoryCreat-dummy.m in Sources */,
-				9039C4B3478CF996F64DF54FF806B8D0 /* ReplaceMe.m in Sources */,
-				C0A5032A4355ABB499A5652207CF8AE2 /* UIButton+CycleCreat.m in Sources */,
-				B3A56BF869618D6438DF07284B06F6C1 /* UICollectionView+CycleCreat.m in Sources */,
-				4D7BDA8BE2DAB3953E3DC8AEDCBD91F6 /* UILabel+CycleCreat.m in Sources */,
-				13F109DA33226C5E71A0CA3C211C833F /* UITableView+CycleCreat.m in Sources */,
-				3F044C5E86820159CDB922DA20BCB0B6 /* UITextField+CycleCreat.m in Sources */,
-				849D4D01900EBCEC8600D382EF11259D /* UITextView+CycleCreat.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -427,7 +431,7 @@
 		14B65AB1979E96D87DF721435E4700DB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = cycleControlCategoryCreat;
-			target = E6E18983619CDD6212B08C73063BED02 /* cycleControlCategoryCreat */;
+			target = 4DD9B093C6E92B6F60F34A15EEFCC3FE /* cycleControlCategoryCreat */;
 			targetProxy = 68A797538F93FFE39ABBA853C59A3D90 /* PBXContainerItemProxy */;
 		};
 		DF5AA55F267219A643BA433F95D86886 /* PBXTargetDependency */ = {
@@ -535,6 +539,67 @@
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
+		};
+		96D04E5C0B1616686797995523DB2965 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 93093BE31EEFF41A43B87A04F4117AF0 /* cycleControlCategoryCreat.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/cycleControlCategoryCreat/cycleControlCategoryCreat-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/cycleControlCategoryCreat/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/cycleControlCategoryCreat/cycleControlCategoryCreat.modulemap";
+				PRODUCT_MODULE_NAME = cycleControlCategoryCreat;
+				PRODUCT_NAME = cycleControlCategoryCreat;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		984559C6250F0259A25C7045453D6F14 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 93093BE31EEFF41A43B87A04F4117AF0 /* cycleControlCategoryCreat.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/cycleControlCategoryCreat/cycleControlCategoryCreat-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/cycleControlCategoryCreat/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/cycleControlCategoryCreat/cycleControlCategoryCreat.modulemap";
+				PRODUCT_MODULE_NAME = cycleControlCategoryCreat;
+				PRODUCT_NAME = cycleControlCategoryCreat;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
 		};
 		9EB4D885D52C65262EF8AABB025A6CD3 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -661,36 +726,6 @@
 			};
 			name = Release;
 		};
-		C7808BF88E10A79DDBABFD68168E4B0C /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 60BF5B69E762454F33FAE5554308AEA3 /* cycleControlCategoryCreat.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/cycleControlCategoryCreat/cycleControlCategoryCreat-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/cycleControlCategoryCreat/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/cycleControlCategoryCreat/cycleControlCategoryCreat.modulemap";
-				PRODUCT_MODULE_NAME = cycleControlCategoryCreat;
-				PRODUCT_NAME = cycleControlCategoryCreat;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		EC285114C76583DEB7251C0DBFC064C1 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 81E43D3E9232E292238A575C0A3FF2BB /* Pods-cycleControlCategoryCreat_Tests.debug.xcconfig */;
@@ -724,37 +759,6 @@
 			};
 			name = Debug;
 		};
-		F177C3E654C980F40ACBB09116D1479B /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 60BF5B69E762454F33FAE5554308AEA3 /* cycleControlCategoryCreat.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/cycleControlCategoryCreat/cycleControlCategoryCreat-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/cycleControlCategoryCreat/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/cycleControlCategoryCreat/cycleControlCategoryCreat.modulemap";
-				PRODUCT_MODULE_NAME = cycleControlCategoryCreat;
-				PRODUCT_NAME = cycleControlCategoryCreat;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -785,11 +789,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BE1C8AFAF0B13D0C1ACD15289FCD0CBF /* Build configuration list for PBXNativeTarget "cycleControlCategoryCreat" */ = {
+		4EFFA81C74849DE3B7B79967B09F051F /* Build configuration list for PBXNativeTarget "cycleControlCategoryCreat" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C7808BF88E10A79DDBABFD68168E4B0C /* Debug */,
-				F177C3E654C980F40ACBB09116D1479B /* Release */,
+				96D04E5C0B1616686797995523DB2965 /* Debug */,
+				984559C6250F0259A25C7045453D6F14 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

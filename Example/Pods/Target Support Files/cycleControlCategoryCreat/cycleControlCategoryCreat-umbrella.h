@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "controlCategorysCreat.h"
 #import "UIButton+CycleCreat.h"
 #import "UICollectionView+CycleCreat.h"
 #import "UILabel+CycleCreat.h"

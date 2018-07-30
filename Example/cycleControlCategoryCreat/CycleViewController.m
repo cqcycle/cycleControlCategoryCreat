@@ -7,7 +7,6 @@
 //
 
 #import "CycleViewController.h"
-
 @interface CycleViewController ()
 
 @end
