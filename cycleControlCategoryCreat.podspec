@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.version          = '1.0.1'
   s.summary          = 'A short description of controlCategory can help us create control quickly.now UIButton,UICollectionView,UILable,UITableView,UITextView,UITextField support quickly create.'
 
-  s.homepage         = 'https://github.com/cqcycle/cycleControlCategoryCreat'
+  s.homepage         = 'https://github.com/cqcycle/cycleControlCategoryCreat.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'cqcycle' => '15696564260@163.com' }
