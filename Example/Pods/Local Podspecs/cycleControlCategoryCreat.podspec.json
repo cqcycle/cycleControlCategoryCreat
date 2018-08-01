@@ -2,7 +2,7 @@
   "name": "cycleControlCategoryCreat",
   "version": "1.0.1",
   "summary": "A short description of controlCategory can help us create control quickly.now UIButton,UICollectionView,UILable,UITableView,UITextView,UITextField support quickly create.",
-  "homepage": "https://github.com/cqcycle/cycleControlCategoryCreat",
+  "homepage": "https://github.com/cqcycle/cycleControlCategoryCreat.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
